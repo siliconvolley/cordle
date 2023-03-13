@@ -1,2 +1,1 @@
-# cordle
-"C-ORDLE" is a terminal-based offline version of the popular web-based word game, WORDLE.
+Make sure to keep "main.c" and "word_list.h" in the same directory
