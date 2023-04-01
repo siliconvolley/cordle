@@ -9,7 +9,7 @@ int lower = 0, upper = 999, count = 1, chances = 6, wordFound = 0;
 char entered_string[5], tempMain[10], temp[5];
 char title[] = "welcome to improvised wordle";
 
-int randomNumber(int lower, int upper, int count){              //Random Number Generator
+int randomNumber(int lower, int upper, int count){                  //Random Number Generator
 		int num = (rand() % (upper - lower + 1)) + lower;
         //printf("Random Number Generated : %d", num);
         return num;
@@ -17,7 +17,7 @@ int randomNumber(int lower, int upper, int count){              //Random Number 
 
 //To check the entered string
 
-void disp_title(){              //To display the title of the game
+void disp_title(){                                                  //To display the title of the game
     int i;
     int t=2;
     char arr[]="\\|/-";
@@ -42,22 +42,24 @@ void disp_title(){              //To display the title of the game
     printf("\n");
 }
 
-void yellow(char c){                    //Print in Yellow Background
+void yellow(char c){                                                //Print in Yellow Background
     printf("\033[30;43m");
     printf(" %c ", c);  
 }
 
-void green(char c){                     //Print in Green Background
+void green(char c){                                                 //Print in Green Background
     printf("\033[30;42m");
     printf(" %c ", c);  
 }
 
 void check() {
-    char single;
+    int *status;
+    char single; // *checkBuffer;
     int flag;
     while(chances--){
         scanf("%s", temp);
-        for(int i=0; i<strlen(temp); i++){
+        
+        for(int i=0; i<5; i++){
             if(tempMain[i] == temp[i]){
                 green(temp[i]);
                 printf("\033[0m ");
@@ -66,6 +68,7 @@ void check() {
 
             else{
                 single = temp[i];
+                flag = 0;
                 for(int j=0; j<=5; j++){
                     if(i != j){
                         if(tempMain[j] == single){
@@ -88,7 +91,7 @@ void check() {
             }
             flag = 0;
         }
-        printf("\033[0m\n\n");
+        printf("\033[0m \n\n");
         if(strcmp(tempMain, temp) == 0){
             printf("Right Word! You Won!\n");
             wordFound = 1;
