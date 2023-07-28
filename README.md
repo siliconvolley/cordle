@@ -4,11 +4,13 @@
 
 **NOTE** : Make sure to keep `main.c` and `word_list.h` in the same directory
 
-
+---
 
 ## Screenshots:
 
 ![image](https://github.com/siliconvolley/cordle/assets/113709174/2212d571-ba1c-4dfa-ae7c-2d657d2d6d2b)
+
+---
 
 ![image](https://github.com/siliconvolley/cordle/assets/113709174/ca6967c1-e983-4c57-81b9-914a0cda1c45)
 
