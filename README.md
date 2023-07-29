@@ -12,7 +12,11 @@
 
 ---
 
-![image](https://github.com/siliconvolley/cordle/assets/113709174/ca6967c1-e983-4c57-81b9-914a0cda1c45)
+![image](https://github.com/siliconvolley/cordle/assets/113709174/6aa1cea9-82b1-46c8-ab7e-f4840e38f63f)
+
+---
+
+![image](https://github.com/siliconvolley/cordle/assets/113709174/2b45c545-8347-4fe8-aa22-797cb1a38aa5)
 
 
 ---
