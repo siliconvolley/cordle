@@ -1,4 +1,4 @@
-## C-ORDLE
+# C-ORDLE
 
 ### A terminal based clone to the popular online word puzzle game, [WORDLE](https://www.nytimes.com/games/wordle/index.html)
 
@@ -6,18 +6,23 @@
 
 ---
 
-## Screenshots:
+# Screenshots:
 
-![image](https://github.com/siliconvolley/cordle/assets/113709174/2212d571-ba1c-4dfa-ae7c-2d657d2d6d2b)
+<div id="header" align="center">
+  <img src="https://github.com/siliconvolley/cordle/assets/113709174/2212d571-ba1c-4dfa-ae7c-2d657d2d6d2b" width="40%"/>
+</div>
 
----
+### -> When you get a right word!
 
-![image](https://github.com/siliconvolley/cordle/assets/113709174/6aa1cea9-82b1-46c8-ab7e-f4840e38f63f)
+<div id="header" align="center">
+  <img src="https://github.com/siliconvolley/cordle/assets/113709174/6aa1cea9-82b1-46c8-ab7e-f4840e38f63f" width="40%"/>
+</div>
 
----
+### When its a wrong word ;(
 
-![image](https://github.com/siliconvolley/cordle/assets/113709174/2b45c545-8347-4fe8-aa22-797cb1a38aa5)
-
+<div id="header" align="center">
+  <img src="https://github.com/siliconvolley/cordle/assets/113709174/2b45c545-8347-4fe8-aa22-797cb1a38aa5" width="40%"/>
+</div>
 
 ---
 
