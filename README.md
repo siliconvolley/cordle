@@ -28,8 +28,18 @@
 
 ### Instructions:
 
-![image](https://github.com/siliconvolley/cordle/assets/113709174/351d69d5-d15f-403a-b693-d20b873540b9)
+➜ The program will randomly choose a 5-letter word.
 
-YELLOW boxed letter indicates that this letter is present in the selected word but is in the wrong position.
+➜ You have 6 chances to guess the chosen word.
 
-GREEN boxed letter indicates that this letter is present in the selected word and is in the right position.
+➜ Type any 5 letter of your choice.
+
+➜ For example:
+
+<div id="header">
+  <img src="https://github.com/siliconvolley/cordle/assets/113709174/351d69d5-d15f-403a-b693-d20b873540b9" width="30%"/>
+</div>
+
+* 🟨 YELLOW boxed letter indicates that this letter is present in the selected word but is in the wrong position.
+
+* 🟩 GREEN boxed letter indicates that this letter is present in the selected word and is in the right position.
