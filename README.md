@@ -6,26 +6,6 @@
 
 ---
 
-# Screenshots:
-
-<div id="header" align="center">
-  <img src="https://github.com/siliconvolley/cordle/assets/113709174/2212d571-ba1c-4dfa-ae7c-2d657d2d6d2b" width="40%"/>
-</div>
-
-### ✅ When you get a right word
-
-<div id="header" align="center">
-  <img src="https://github.com/siliconvolley/cordle/assets/113709174/6aa1cea9-82b1-46c8-ab7e-f4840e38f63f" width="40%"/>
-</div>
-
-### ❌ When its a wrong word
-
-<div id="header" align="center">
-  <img src="https://github.com/siliconvolley/cordle/assets/113709174/2b45c545-8347-4fe8-aa22-797cb1a38aa5" width="40%"/>
-</div>
-
----
-
 ### Instructions:
 
 ➜ The program will randomly choose a 5-letter word.
@@ -43,3 +23,29 @@
 * 🟨 YELLOW boxed letter indicates that this letter is present in the selected word but is in the wrong position.
 
 * 🟩 GREEN boxed letter indicates that this letter is present in the selected word and is in the right position.
+
+<br>
+
+### **AS SIMPLE AS THAT!**
+
+### **HAPPY C-ORDLING!**
+
+---
+
+# Screenshots:
+
+<div id="header" align="center">
+  <img src="https://github.com/siliconvolley/cordle/assets/113709174/2212d571-ba1c-4dfa-ae7c-2d657d2d6d2b" width="40%"/>
+</div>
+
+### ✅ When you get a right word
+
+<div id="header" align="center">
+  <img src="https://github.com/siliconvolley/cordle/assets/113709174/6aa1cea9-82b1-46c8-ab7e-f4840e38f63f" width="40%"/>
+</div>
+
+### ❌ When its a wrong word
+
+<div id="header" align="center">
+  <img src="https://github.com/siliconvolley/cordle/assets/113709174/2b45c545-8347-4fe8-aa22-797cb1a38aa5" width="40%"/>
+</div>
